@@ -1,6 +1,13 @@
 # til
 Today I learned :P
 
+# 2021-04-01
+## 12:45
+
+sincedb tracks input files. logstash sincedb default is `<path.data>/plugins/inputs/file`. It is clean after if no more file change has detected. see `sincedb_clean_after` at below link.
+
+https://www.elastic.co/guide/en/logstash/current/plugins-inputs-file.html#plugins-inputs-file-start_position
+
 # 2021-03-31
 ## 05:31
 
