@@ -2,6 +2,12 @@
 Today I learned :P
 
 # 2021-04-01
+## 17:07
+
+use `.` instead of `source`.
+
+https://stackoverflow.com/questions/13702425/source-command-not-found-in-sh-shell
+
 ## 12:45
 
 sincedb tracks input files. logstash sincedb default is `<path.data>/plugins/inputs/file`(hidden file). It is clean after if no more file change has detected. see `sincedb_clean_after`(default is 2 weeks) at below link.
