@@ -7,6 +7,7 @@ Today I learned :P
 https bypass with haproxy.
 
 * https://tossolution.com/2019/04/haproxy-ssl-bypass/
+* https://www.haproxy.com/blog/how-to-get-ssl-with-haproxy-getting-rid-of-stunnel-stud-nginx-or-pound/
 
 ## 15:33
 
