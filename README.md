@@ -1,6 +1,20 @@
 # til
 Today I learned :P
 
+# 2021-04-12
+## 15:33
+
+struction of `NLS_LANG`.
+
+```
+Determine the NLS_LANG value.
+In the data warehouse database, run the command
+SELECT * FROM V$NLS_PARAMETERS
+
+Make a note of the NLS_LANG value, which is in the format [NLS_LANGUAGE]_[NLS_TERRITORY].[NLS_CHARACTERSET].
+For example: American_America.UTF8
+```
+
 # 2021-04-01
 ## 17:07
 
