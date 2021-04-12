@@ -2,6 +2,12 @@
 Today I learned :P
 
 # 2021-04-12
+## 17:32
+
+https bypass with haproxy.
+
+* https://tossolution.com/2019/04/haproxy-ssl-bypass/
+
 ## 15:33
 
 structure of `NLS_LANG`.
