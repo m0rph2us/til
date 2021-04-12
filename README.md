@@ -4,7 +4,7 @@ Today I learned :P
 # 2021-04-12
 ## 15:33
 
-struction of `NLS_LANG`.
+structure of `NLS_LANG`.
 
 ```
 Determine the NLS_LANG value.
