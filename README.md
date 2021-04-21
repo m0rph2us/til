@@ -14,9 +14,9 @@ Today I learned :P
 
 In case of Oracle, You should enable the `supplemental_log_data_min` attribute.
 
-```
-Last Error Failed in resolving configuration. Task error notification received from subtask 0, thread 0 [reptask/replicationtask.c:2859] [1020418] CDC cannot be provided because supplemental_log_data_min in v$database is set to NO; Minimal database supplemental logging level is not enabled; Failed while preparing stream component 'st_0_GMFJZ4YM6I64WI2BSNP2CP2LTHDMMHDHAAGL3WI'.; Cannot initialize subtask; Stream component 'st_0_GMFJZ4YM6I64WI2BSNP2CP2LTHDMMHDHAAGL3WI' terminated [reptask/replicationtask.c:2866] [1020418] Stop Reason FATAL_ERROR Error Level FATAL
-```
+>Last Error Failed in resolving configuration. Task error notification received from subtask 0, thread 0 [reptask/replicationtask.c:2859] [1020418] CDC cannot be provided because supplemental_log_data_min in v$database is set to NO; Minimal database supplemental logging level is not enabled; Failed while preparing stream component 'st_0_GMFJZ4YM6I64WI2BSNP2CP2LTHDMMHDHAAGL3WI'.; Cannot initialize subtask; Stream component 'st_0_GMFJZ4YM6I64WI2BSNP2CP2LTHDMMHDHAAGL3WI' terminated [reptask/replicationtask.c:2866] [1020418] Stop Reason FATAL_ERROR Error Level FATAL
+
+
 
 # 2021-04-12
 ## 17:32
