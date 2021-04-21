@@ -1,6 +1,14 @@
 # til
 Today I learned :P
 
+# 2021-04-21
+## 09:50
+
+* AWS DMS Compoents : https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Introduction.Components.html
+* Choosing the right DMS replication instance : https://docs.aws.amazon.com/dms/latest/userguide/CHAP_ReplicationInstance.Types.html 
+  * At least C4 is a good choice
+* 
+
 # 2021-04-12
 ## 17:32
 
