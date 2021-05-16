@@ -3,6 +3,11 @@
 Today I learned :P
 
 # 2021-05-16
+## 17:23
+
+issues on kotlin data class and jpa
+https://kotlinexpertise.com/hibernate-with-kotlin-spring-boot/
+
 ## 10:50
 
 mysql 5.7 utf8mb4 collation 비교
