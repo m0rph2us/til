@@ -2,6 +2,12 @@
 
 Today I learned :P
 
+# 2021-05-16
+## 10:50
+
+mysql 5.7 utf8mb4 collation 비교
+https://m.blog.naver.com/PostView.nhn?blogId=seuis398&logNo=220851196727&proxyReferer=https:%2F%2Fwww.google.com%2F
+
 # 2021-04-22
 ## 10:00
 
