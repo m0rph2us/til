@@ -2,6 +2,11 @@
 
 Today I learned :P
 
+# 2021-05-21
+## 13:09
+
+https://aws.amazon.com/ko/blogs/security/use-aws-lambda-authorizers-with-a-third-party-identity-provider-to-secure-amazon-api-gateway-rest-apis/
+
 # 2021-05-16
 ## 17:23
 
